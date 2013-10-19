@@ -18,4 +18,3 @@ function spacestatus_current_status()
     
     return $current_status;
 }
-
